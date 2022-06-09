@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWdLtS8zDk/WlwKFoo2v0jN+9PrHHwYm1P0y3jwZOMbYnDB13zm1krrcldYJhiuDkI1oNUruRefR/vYp8Hx0tg==",
+  "dgSpecHash": "20Z7uwE1sBNpSU6bZ+/IfJhj5Zccr3Pp3XCMJrj3aEtSCmcBqNgnuVHbJT5Ip3QT83gvLzOqti4u6Hd9ofJ97g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\CSE-210.csproj",
+  "projectFilePath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\CSE-210.csproj": {}
+    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\CSE-210.csproj": {
+    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\CSE-210.csproj",
-        "projectName": "CSE-210",
-        "projectPath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\CSE-210.csproj",
+        "projectUniqueName": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Todd\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",

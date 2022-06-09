@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CSE-210/1.0.0": {
+      "HelloWorld/1.0.0": {
         "runtime": {
-          "CSE-210.dll": {}
+          "HelloWorld.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSE-210/1.0.0": {
+    "HelloWorld/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
