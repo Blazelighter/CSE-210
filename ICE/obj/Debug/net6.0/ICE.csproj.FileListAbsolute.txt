@@ -1,0 +1,15 @@
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\bin\Debug\net6.0\ICE.exe
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\bin\Debug\net6.0\ICE.deps.json
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\bin\Debug\net6.0\ICE.runtimeconfig.json
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\bin\Debug\net6.0\ICE.dll
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\bin\Debug\net6.0\ICE.pdb
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.csproj.AssemblyReference.cache
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.AssemblyInfoInputs.cache
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.AssemblyInfo.cs
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.csproj.CoreCompileInputs.cache
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.dll
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\refint\ICE.dll
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.pdb
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ICE.genruntimeconfig.cache
+C:\Users\Todd\Documents\Comp Sci\CSE-210\ICE\obj\Debug\net6.0\ref\ICE.dll
