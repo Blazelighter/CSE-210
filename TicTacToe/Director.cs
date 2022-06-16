@@ -5,6 +5,7 @@ namespace TicTacToe
 
         bool isPlaying = true;
 
+
         public void PlayGame()
         {
             Board board = new Board();
@@ -13,12 +14,12 @@ namespace TicTacToe
             while (isPlaying)
             {
                 board.GenerateBoard();
-                
+
                 while (true)
                 {
                     board.PrintBoard();
                     board.PlaceMark("X");
-                    if (board.CheckVictory("X"))
+                    if (board.CheckVictory("X") || board.CheckStalemate())
                     {
                         break;
                     }
